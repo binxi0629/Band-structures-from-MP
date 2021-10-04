@@ -55,7 +55,7 @@ class MyEncoder(json.JSONEncoder):
 
 
 # configs here
-m = MPRester("Cc0MLFoRBsT4lQ8J")
+m = MPRester("xxxxxxxxxxxx")
 verbose = False
 n_thread = 28*4
 # n_thread = 1
